@@ -1,0 +1,5 @@
+¿Cuál es el océano más grande del mundo?|Atlántico,Pacífico,Índico,Ártico|1|Conocimiento|Selección
+¿En qué continente se encuentra Egipto?|Europa,Asia,África,América|2|Conocimiento|Selección
+¿Qué órgano del cuerpo humano bombea sangre?|Pulmón,Estómago,Cerebro,Corazón|3|Conocimiento|Selección
+¿Cuál es el planeta más cercano al Sol?|Tierra,Marte,Venus,Mercurio|3|Conocimiento|Selección
+¿Qué día se celebra el Año Nuevo?|24 de diciembre,1 de enero,31 de octubre,14 de febrero|1|Conocimiento|Selección
